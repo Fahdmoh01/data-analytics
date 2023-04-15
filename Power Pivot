@@ -1,0 +1,25 @@
+Power Pivot is a data analysis tool available in Microsoft Excel.
+
+Power Pivot is a data modelling technology that lets you create data models, establish relationships and create calculations.
+
+Power Pivot lets you work with large data set, build extensive relationships, and create complex or simple calculations in a high-performance environment.
+
+
+### Power Query
+It is a Business Intelligence tool in Excel.
+
+It is also called Get & Transform.
+It is used to import data from many different sources.
+It can clean, transform and reshape the data as required
+It is used for data acquisition and discovery
+It can massage data to your liking
+It can merge disparate data together
+It allows you to set up a query once and then reuse it with simple refresh.
+
+
+### Preparing your Query
+Query - a query applies steps to our data making it easier to analyze.
+
+### Power Query Editor - provides a mirroring or somekind of virtual environment to work on data. It also records steps which was taken. You can delete steps if you want.
+
+Any changes or modification is made in the power query editor. Any changes made does not affect the original data.
